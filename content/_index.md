@@ -10,19 +10,19 @@ My altar right now is a milk crate in my closet. My yoga mat's underneath it. My
 
 It works.
 
-That's the whole idea behind this shop. You don't need a sunroom. You don't need a meditation studio with good light and a cleared-out shelf. You need a place to breathe — and most of us are already improvising one out of whatever's around. A milk crate. A corner of a bedroom. A blanket spread out under a tree because that's where you happened to stop walking.
+That's the whole idea behind this shop. You don't need a sunroom. You don't need a meditation studio with good light and a cleared-out shelf. You need a place to breathe and most of us are already improvising one out of whatever's around. A milk crate. A corner of a bedroom. A blanket spread out under a tree because that's where you happened to stop walking.
 
 We make things for that space. The real one. Not the one in the magazine photo.
 
 ### What We Make
 
-Some of what's here is serious — pieces meant to sit on your altar, hold your cards, cover the crate, mark the spot where you come back to yourself. Some of it is just fun, because devotion doesn't have to be solemn to be real, and because a little wonder and a little whimsy belong in the same drawer as your tarot deck.
+Some of what's here is serious pieces meant to sit on your altar, hold your cards, cover the crate, mark the spot where you come back to yourself. Some of it is just fun, because devotion doesn't have to be solemn to be real, and because a little wonder and a little whimsy belong in the same drawer as your tarot deck.
 
-Everything we make is meant to travel with you or stay put with you — whether that's a fold-out blanket that turns into a bag so you can take your practice into the woods, or a cover for the crate that's been holding your practice together all along.
+Everything we make is meant to travel with you or stay put with you whether that's a fold-out blanket that turns into a bag so you can take your practice into the woods, or a cover for the crate that's been holding your practice together all along.
 
 ### Mission
 
-We create or find meaningful pieces for the space you actually have, not the space you wish you had — pendulums, cards, altar pieces like dreamcatchers, tapestries, and inspiring photography, designed to work in a closet as well as a cathedral.
+We create or find meaningful pieces for the space you actually have, not the space you wish you had pendulums, cards, altar pieces like dreamcatchers, tapestries, and inspiring photography, designed to work in a closet as well as a cathedral.
 
 ### Vision
 
