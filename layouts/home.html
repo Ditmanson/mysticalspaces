@@ -1,0 +1,15 @@
+{{ define "main" }}
+  {{ .Content }}
+
+  <h2>Latest from the Blog</h2>
+<!-- Only the blog section, reverse sorted by date, top 5 -->
+  <ul class="post-list">
+    {{ with .Site.GetPage "blog" }}
+      {{ range first 5 .RegularPages.ByDate.Reverse }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </li>
+      {{ end }}
+    {{ end }}
+  </ul>
+{{ end }}
