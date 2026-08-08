@@ -1,5 +1,5 @@
 <div class="header-inner">
-  <a class="site-title" href="{{ "/" | absURL }}">{{ .Site.Title }}</a>
+  <a class="site-title" href="{{ "/" | relURL }}">{{ .Site.Title }}</a>
   <nav>
     <ul class="nav-list">
       {{ range .Site.Menus.main }}
